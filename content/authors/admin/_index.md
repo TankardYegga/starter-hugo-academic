@@ -57,12 +57,13 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  <!--
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
+  # - icon: linkedin
+  #  icon_pack: fab
+  # link: https://www.linkedin.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/TankardYegga
@@ -81,5 +82,5 @@ email: 'levinforward@163.com'
 highlight_name: true
 ---
 
-Levin Zou is a graduate student majoring in artificial intelligence on medical images. My research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Levin Zou is a graduate student majoring in artificial intelligence on medical images. My research interests include distributed robotics, mobile computing and programmable matter. 
 {style="text-align: justify;"}
